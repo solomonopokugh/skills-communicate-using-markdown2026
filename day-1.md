@@ -1,11 +1,12 @@
 # tech taco
 ## codespace 
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 ## markdown
 # my plan TT lectures 
 what did we do last weel
 - Open a readcode
 - and some stuff
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 what are we doing today
 - tutorial
 - and some stuff
